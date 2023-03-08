@@ -1,0 +1,44 @@
+{
+    "products":[
+        {
+            "id" : "001",
+            "name" : "Iphone 12 ",
+            "desc":"Apple 12th gen",
+            "price":999,
+            "color":"#33505a",
+            "image":"https://m.media-amazon.com/images/I/71E5zB1qbIL._SL1500_.jpg"
+        },
+        {
+            "id" : "002",
+            "name" : "Pixel 5",
+            "desc":"Google 5th gen",
+            "price":799,
+            "color":"#00ac51",
+            "image":"https://m.media-amazon.com/images/I/81-fNmQqlLL._SL1500_.jpg"
+        },
+        {
+            "id" : "003",
+            "name" : "Macbook air M1",
+            "desc":"Apple Silicon",
+            "price":1159,
+            "color":"#e0bfae",
+            "image":"https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
+        },
+        {
+            "id" : "004",
+            "name" : "Macbook air M2",
+            "desc":"Apple Silicon",
+            "price":1379,
+            "color":"#e0bfae",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653084303665"
+        },
+        {
+            "id" : "005",
+            "name" : "Airpods MAX",
+            "desc":"Apple Music",
+            "price":750,
+            "color":"#e0bfae",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-hero-select-202011_FMT_WHH?wid=607&hei=556&fmt=jpeg&qlt=90&.v=1633623988000"
+        }
+    ]
+}
