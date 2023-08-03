@@ -63,7 +63,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   validator: (String? value) {
                     if(value!.isEmpty){
-                      return "Maa Baap ne naam nhi diya kya madarchod";
+                      return "Please enter name";
                     }
                     return null;
                   },
@@ -82,7 +82,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   validator: (String? value) {
                     if (value!.isEmpty){
-                      return "Password teri gf daalegi kya";
+                      return "Please enter password";
                     }
                     return null;
                   },
